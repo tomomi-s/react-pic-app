@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render 1`] = `
+<div
+  class="row"
+  style="margin-top:10px"
+>
+  <div
+    class="card"
+  >
+    <div
+      class="card-image waves-effect waves-block waves-light"
+    >
+      <img
+        alt=""
+        class="col s12 m6"
+        src="//files/photo_before.jpg"
+        style="padding:0"
+      />
+      <img
+        alt=""
+        class="col s12 m6"
+        src="//files/photo_after.jpg"
+        style="padding:0"
+      />
+    </div>
+    <div
+      class="card-content"
+    >
+      <span
+        class="card-title activator grey-text text-darken-4"
+      >
+        VSCO
+        <i
+          class="material-icons right"
+        >
+          more_vert
+        </i>
+      </span>
+    </div>
+    <div
+      class="card-reveal"
+    >
+      <span
+        class="card-title grey-text text-darken-4"
+      >
+        Recipe
+        <i
+          class="material-icons right"
+        >
+          close
+        </i>
+      </span>
+      <p>
+        Filter: C1
+      </p>
+      <div
+        class="fixed-action-btn"
+      >
+        <a
+          class="btn-floating btn-large waves-effect waves-light teal lighten-1"
+          href="/post/undefined"
+          style="margin-right:5px"
+        >
+          <i
+            class="material-icons"
+          >
+            edit
+          </i>
+        </a>
+        <a
+          class="btn-floating btn-large waves-effect waves-light red lighten-2 modal-trigger"
+          href="#delete-post-modal"
+        >
+          <i
+            class="material-icons"
+          >
+            delete
+          </i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

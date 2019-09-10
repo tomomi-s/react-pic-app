@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://Tomomi123:Tomomi123@contactkeeper-prq0b.mongodb.net/Reciphy?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
