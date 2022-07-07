@@ -7,7 +7,7 @@
     "enzyme-to-json": "^3.4.0",
     "jest-dom": "^4.0.0",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-dropzone": "^10.1.8",
